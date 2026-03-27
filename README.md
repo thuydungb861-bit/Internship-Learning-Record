@@ -1,7 +1,7 @@
 # Internship-Learning-Record
 Internship Learning Record
 
-# 🚀 HWT906P ROS 2 驱动 (针对 Jetson Orin NX 优化)
+# 🚀 HWT906P ROS 2 驱动 
 
 > 这是一个专为维特智能 (WitMotion) HWT906P 惯性导航模块编写的 ROS 2 Python 驱动包。本项目包含底层协议的高效解析器与 ROS 2 节点封装，能在 Jetson Orin NX 等高性能平台上稳定、高速地输出 IMU 姿态数据。
 
