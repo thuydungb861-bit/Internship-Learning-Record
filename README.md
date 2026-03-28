@@ -1,5 +1,4 @@
-# Internship-Learning-Record
-Internship Learning Record
+# Imu-Learning
 
 # 🚀 HWT906P ROS 2 驱动 
 
